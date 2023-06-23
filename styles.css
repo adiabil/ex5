@@ -1,0 +1,64 @@
+img {
+    width: 190px;
+    margin-right: 30px;
+}
+
+/* עיצוב כללי */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  h2 {
+    color: #666;
+    margin-top: 20px;
+  }
+  
+  img {
+    max-width: 300px;
+    margin: 20px 0;
+  }
+  
+  p {
+    color: #888;
+  }
+  
+  h6 {
+    margin-top: 40px;
+  }
+  
+  /* עיצוב סגנונות ספציפיים */
+  #bookCat {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  /* עיצוב כפתורים Bootstrap */
+  .btn {
+    display: inline-block;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  

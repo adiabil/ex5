@@ -1,0 +1,20 @@
+{
+    "Bookcategory": [
+        {
+            "id": 1,
+            "category": "fantasy"
+        },
+        {
+            "id": 2,
+            "category": "fantasy"
+        },
+        {
+            "id": 3,
+            "category": "Romance"
+        } , 
+        {
+            "id": 4,
+            "category": "Romance"
+        }
+    ]
+}
